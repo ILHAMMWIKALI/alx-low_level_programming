@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - function to sum multiples of 3 or 5 in numbers below 1024
  * Return: 0
